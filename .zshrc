@@ -1,6 +1,5 @@
 # If you come from bash you might have to change your $PATH.
  export PATH=$HOME/.local/bin:$HOME/bin:/usr/local/bin:$PATH
-export OPENAI_API_KEY=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
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
